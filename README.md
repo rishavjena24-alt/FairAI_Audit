@@ -18,3 +18,9 @@ FairAI Audit is an AI-powered fairness auditing platform designed to detect bias
 - Deployment: Docker
 - Version Control: GitHub
 
+title: FairAI Audit
+emoji: 🐨
+colorFrom: gray
+colorTo: green
+sdk: docker
+pinned: false
